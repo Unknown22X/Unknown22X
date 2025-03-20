@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unknown22X
 - 👀 I’m interested in sciences 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ & Python
 
 
 <!---
