@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Unknown22X
+- 👋 Hi, I’m @Unknown22X , 14ys old leaerner 
 - 👀 I’m interested in sciences 
-- 🌱 I’m currently learning c++ & Python
+- 🌱 I’m currently learning c++ & Python & c & web
+- 🏫 im taking cs50x now
 
 
 <!---
