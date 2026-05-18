@@ -1,2 +1,11 @@
-<h3>I like building stuff</h3>
--currently wokring on [tqan](https://tqan.app) -a Question Bank for national exams
+<div align="center">
+  <h2>I like building stuff</h2>
+</div>
+
+<br>
+
+<div align="center">
+  
+ Currently working on **[Tqan](https://tqan.app)** — a Question Bank platform built for national exams.
+
+</div>
